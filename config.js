@@ -1,6 +1,6 @@
 module.exports = {
     username: "rinaldi00_official",
-    token: "oauth:dbu8rb0f7bgh778i3vhgeixkuthvgj",
+    token: "oauth:6rteu52sfk9ifv7qr917mkc58l2xld",
     channels: [
         "pepo3393live",
     ]
