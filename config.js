@@ -9,5 +9,6 @@ module.exports = {
         "riomasterr",
         "giuseppe88",
         "ergiammarkchef",
+        "lela93",
     ]
 }
