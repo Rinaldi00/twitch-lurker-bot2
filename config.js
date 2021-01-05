@@ -10,5 +10,8 @@ module.exports = {
         "giuseppe88",
         "chef_e_sofi",
         "lela93",
+        "gskianto",
+        "luke4316live",
+        "matteohs",
     ]
 }
