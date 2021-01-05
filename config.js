@@ -8,7 +8,7 @@ module.exports = {
         "superimen",
         "riomasterr",
         "giuseppe88",
-        "ergiammarkchef",
+        "chef_e_sofi",
         "lela93",
     ]
 }
